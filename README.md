@@ -1,4 +1,5 @@
-### Hi there 👋
+<h1>Namaste!</h1>
+<img src = "https://media.tenor.com/eYRNL1In-ooAAAAM/namaste-covid.gif">
 
 <!--
 **rutujapatil5/rutujapatil5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
